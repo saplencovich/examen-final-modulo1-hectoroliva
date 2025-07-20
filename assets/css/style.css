@@ -4,6 +4,11 @@ body {
     background: linear-gradient(to right, #dfe9f3, #ffffff);
 }
 
+.card-img-top {
+    height: 260px;
+    object-fit: cover;
+}
+
 .container {
     display: flex;
     max-width: 960px;
